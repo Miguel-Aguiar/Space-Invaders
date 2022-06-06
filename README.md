@@ -1,6 +1,6 @@
 # Space-Invaders
 <img src="res/space-defender.png" />
-Jogo de nave chamado Space Defender.
+Jogo de nave chamado Space Protector.
 Criado em cima da engine desenvolvida pelo professor Guilherme da Dankicode. <br>
 
 Para seu funcionamento basta abrir as pastas: <br>
