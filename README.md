@@ -1,4 +1,4 @@
-# Space-Invaders
+# Space-Protector
 <img src="res/space-defender.png" />
 Jogo de nave chamado Space Protector.
 Criado em cima da engine desenvolvida pelo professor Guilherme da Dankicode. <br>
